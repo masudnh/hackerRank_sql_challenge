@@ -4,7 +4,7 @@
 <p>1. The sum of all values in LAT_N rounded to a scale of 2 decimal places.</p>
 <p>2. The sum of all values in LONG_W rounded to a scale of 2 decimal places.</p>
 
-<p><bold>Input Format<bold></p>
+<h5>Input Format</h5>
 <p>The STATION table is described as follows:</p>
 <p>Table: <code>Station</code></p>
 
@@ -22,7 +22,7 @@
 </pre>
 
 <p>Where LAT_N is the northen latitude and LONG_W is the western longitude</p>
-<p><bold>Output Format</bold></p>
+<h5>Output Format</h5>
 <p>Your result must be in the form:</p>
 <pre>
 lan lon
