@@ -1,6 +1,6 @@
 <h3>Easy</h3><hr>
 
-<p>Query all cilumns for a city in CITY with the ID <code>1661<code>
+<p>Query all columns for a city in CITY with the ID <code>1661</code>
 
 The CITY table is described as follows:
 </p>
