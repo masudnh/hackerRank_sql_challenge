@@ -1,8 +1,12 @@
-Query all columns (attributes) for every row in the CITY table.
+<h3>Easy</h3><hr>
 
-The CITY table is described as follows:
 
-CITY
+<p>Query all columns (attributes) for every row in the CITY table.</p>
+
+<p>The CITY table is described as follows:</p>
+
+<p>Table:<code>CITY</code></p>
+<pre>
 +-------------+--------------+
 | Column Name | Type         |
 +-------------+--------------+
@@ -12,3 +16,4 @@ CITY
 | DISTRICT    | VARCHAR2(20) |
 | POPULATION  | NUMBER       |
 +-------------+--------------+
+</pre>
